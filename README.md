@@ -3,6 +3,6 @@
 
 This is a paragraph
 
-# This is a title in another branch
+# This some text added from new-branch
 
 
